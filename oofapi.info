@@ -1,0 +1,5 @@
+name = Object-oriented Form API
+description = Objec-oriented representation of Form API
+core = 7.x
+
+files[] = oofapi.component.inc
